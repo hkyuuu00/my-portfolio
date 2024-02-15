@@ -1,0 +1,15 @@
+.article {
+    text-align: center;
+}
+.name {
+    color: red;
+}
+.phone {
+    color: goldenrod;
+}
+.adress {
+    color: green;
+}
+.email {
+    color: blue;
+}
