@@ -1,0 +1,22 @@
+.menu{
+  width: 20%;
+  height: auto;
+  background-color: aquamarine;
+  .ul {
+    position: fixed;
+    
+    .link {
+      list-style: none;
+      color: black;
+      padding-bottom: 25%;
+      padding-top: 25%;
+      a {
+        text-decoration: none;
+        color: black;
+      }
+      a:hover {
+        color: red;
+      }
+    }
+  }
+}

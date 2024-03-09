@@ -1,4 +1,9 @@
+@font-face {
+  font-family: 'Diphylleia-Regular';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_JAMO@1.0/Diphylleia-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
 .app {
-  background-color: blanchedalmond;
-  height: 700px;
+  font-family: 'Diphylleia-Regular';
 }
