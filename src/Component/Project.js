@@ -1,0 +1,10 @@
+import React from 'react'
+import '../style/Project.scss'
+
+export default function Project() {
+  return (
+    <div className='project'>
+      <h1>Project</h1>
+    </div>
+  )
+}
