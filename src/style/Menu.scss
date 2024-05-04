@@ -1,22 +1,23 @@
 .menu{
-  width: 20%;
-  height: auto;
-  background-color: aquamarine;
-  font-size: 1.2rem;
+  width: 20vw;
+  height: 100vh;
+  background-color: rgb(127, 180, 255);
+  font-size: 1.4vw;
   .ul {
     position: fixed;
     
     .link {
       list-style: none;
       color: black;
-      padding-bottom: 25%;
-      padding-top: 25%;
+      padding: 3vh;
+      margin: 0.5vw;
       a {
         text-decoration: none;
         color: black;
       }
       a:hover {
-        color: red;
+        color: rgb(255, 224, 49);
+        transition: all 0.5s;
       }
     }
   }

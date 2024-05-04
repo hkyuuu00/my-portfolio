@@ -15,7 +15,7 @@ function App() {
       <BrowserRouter>
         <Menu />
         <Routes>
-          <Route path='/' element={<Home />}/>
+          <Route path='/my-portfolio' element={<Home />}/>
           <Route path='/Home' element={<Home />}/>
           <Route path='/About' element={<About />}/>
           <Route path='/Skills' element={<Skills />}/>
